@@ -1,5 +1,6 @@
 .. figure:: https://github.com/FFY00/FFY00/blob/master/header.jpg
    :alt: See no Evil, Hear no Evil, Speak no Evil
+   :align: center
 
    Ray in Manila / CC BY (https://creativecommons.org/licenses/by/2.0)
 
