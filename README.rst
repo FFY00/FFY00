@@ -2,6 +2,7 @@
 
    * - .. figure:: https://github.com/FFY00/FFY00/blob/master/header.jpg
           :alt: See no Evil, Hear no Evil, Speak no Evil
+          :target: https://en.wikipedia.org/wiki/Three_wise_monkeys
 
           Ray in Manila / CC BY (https://creativecommons.org/licenses/by/2.0)
 
