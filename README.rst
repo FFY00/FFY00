@@ -12,5 +12,8 @@
 
 Hello, if you want to find more about me, please check `my website`_.
 
+My pronouns are *he/him* or *they/them*. I have no preference between the two,
+use whatever you feel like :blush:
+
 
 .. _my website: https://ffy00.github.io
