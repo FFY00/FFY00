@@ -8,6 +8,7 @@
 
      - .. image:: https://github.com/FFY00/FFY00/blob/master/drop-ice.png
           :alt: Github, please drop ICE
+          :target: https://github.com/drop-ice/dear-github-2.0
 
 
 Hello, if you want to find more about me, please check `my website`_.
