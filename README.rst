@@ -13,7 +13,7 @@
 
 Hello, if you want to find more about me, please check `my website`_.
 
-My prefered pronouns are *they/them*, but *he/him* is also okay.
+My prefered pronouns are *they/them*, but *he/him* are also okay.
 
 
 .. _my website: https://ffy00.github.io
