@@ -35,8 +35,8 @@ Security
   In case you need to reach out to me securely, you should encrypt your message
   with the GPG key specified above and use my personal address. If you need me to
   reply, please identify your GPG key in the message. If you have access to a Tor
-  email provider (`list`_), can use it to have the message delivered over the Tor
-  network.
+  email provider (`list`_), you can use it to have the message delivered over the
+  Tor network.
 
   Please just encrypt messages when necessary!
 
