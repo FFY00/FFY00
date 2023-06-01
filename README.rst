@@ -23,6 +23,7 @@ Contact
 
   Or one of my project-affiliated addresses:
 
+  - lains@python.org
   - lains@archlinux.org
 
 
