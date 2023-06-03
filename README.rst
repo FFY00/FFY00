@@ -17,9 +17,10 @@ My prefered pronouns are *they/them*, but *he/him* are also okay.
 
 
 Contact
-  You can reach me on my personal address:
+  You can reach me on one of my personal addresses:
 
-  - lains@riseup.net
+  - lains@riseup.net (prefered)
+  - lains@disroot.org (alternative)
 
   Or one of my project-affiliated addresses:
 
