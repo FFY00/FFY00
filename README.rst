@@ -11,15 +11,15 @@
           :target: https://github.com/drop-ice/dear-github-2.0
 
 
-Hello, if you want to find more about me, please check `my website`_.
+Hello, if you want to find out more about me, please check `my website`_.
 
-My prefered pronouns are *they/them*, but *he/him* are also okay.
+My preferred pronouns are *they/them*, but *he/him* are also okay.
 
 
 Contact
-  You can reach me on one of my personal addresses:
+  You can reach me at one of my personal addresses:
 
-  - lains@riseup.net (prefered)
+  - lains@riseup.net (preferred)
   - lains@disroot.org (alternative)
 
   Or one of my project-affiliated addresses:
@@ -31,7 +31,7 @@ Contact
 Security
   My GPG key is |3DCE51D60930EBA47858BA4146F633CBB0EB4BF2|_ (summary_), and is
   signed by the `Arch Linux master keys`_. Please do not trust any other key
-  claiming to be mine unless is signed by this one.
+  claiming to be mine unless it is signed by this one.
 
   In case you need to reach out to me securely, you should encrypt your message
   with the GPG key specified above and use my personal address. If you need me to
